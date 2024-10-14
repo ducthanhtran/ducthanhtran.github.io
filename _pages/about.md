@@ -7,9 +7,9 @@ subtitle: Scientific Assistant, Directed Energy Manufacturing Department
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-	<p>Fraunhofer Institute for Production Technology IPT</p>
+    <p>Fraunhofer Institute for Production Technology IPT</p>
     <p>Steinbachstr. 17, 52074 Aachen</p>
     <p>Aachen, Germany</p>
 
