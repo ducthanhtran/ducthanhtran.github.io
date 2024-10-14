@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /supervision/
+permalink: /supervisions/
 title: Thesis Supervisions
 description: 
 nav: true
