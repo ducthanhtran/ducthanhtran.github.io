@@ -6,7 +6,7 @@ subtitle: Scientific Assistant, Directed Energy Manufacturing Department
 
 profile:
   align: right
-  image: 
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 	<p>Fraunhofer Institute for Production Technology IPT</p>
