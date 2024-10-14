@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Ongoing Theses
+## Ongoing Theses
 - **Ruturaj Shelake**: *Development of a Uniform Data Model for Laser Structuring*
 	- Degree: Master Thesis
 	- Institution: Furtwangen University
@@ -21,7 +21,7 @@ nav_order: 6
 	- Degree: Bachelor Thesis
 	- Institution: FH Aachen – University of Applied Sciences
 
-# Completed Theses
+## Completed Theses
 
 - **Yimeng Liu**: *Constructing Voxel Model with Quality Analysis from EOS OT System in LPBF Process*
 	- Degree: Bachelor Thesis
