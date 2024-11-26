@@ -25,7 +25,7 @@ nav_order: 6
 	
 - **Yimeng Liu**
 	- Title: *Constructing Voxel Model with Quality Analysis from EOS OT System in LPBF Process*
-	- Bachelor Thesis, Institution: FH Aachen – University of Applied Sciences, August 2024
+	- Bachelor Thesis, FH Aachen – University of Applied Sciences, August 2024
 	
 - **Daniel Murrieta Alvarez**
 	- Title: *Development of a Prototype Software for Simulating Ultrafast Laser Surface Structuring*
