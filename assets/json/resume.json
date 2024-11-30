@@ -22,8 +22,8 @@
       "name": "Fraunhofer Institute for Production Technology IPT",
       "position": "Research Fellow",
       "url": "https://www.ipt.fraunhofer.de/en.html",
+      "location": "Aachen, Germany",
       "startDate": "2021-12-01",
-      "endDate": "",
       "summary": "",
       "highlights": [""]
     },
@@ -31,6 +31,7 @@
       "name": "The Laboratory for Machine Tools and Production Engineering (WZL), RWTH Aachen University",
       "position": "Research Fellow",
       "url": "https://www.wzl.rwth-aachen.de/",
+      "location": "Aachen, Germany",
       "startDate": "2021-12-01",
       "endDate": "2023-11-31",
       "summary": "",
@@ -39,7 +40,8 @@
     {
       "name": "Lehrstuhl VI Informatik, RWTH Aachen University",
       "position": "Student Research Assistant",
-      "url": "https://www.wzl.rwth-aachen.de/",
+      "url": "https://www-i6.informatik.rwth-aachen.de/web/Homepage/index.html",
+      "location": "Aachen, Germany",
       "startDate": "2017-12-01",
       "endDate": "2019-09-30",
       "summary": "Neural Machine Translation",
@@ -49,6 +51,7 @@
       "name": "Jobware GmbH, Paderborn",
       "position": "Working Student",
       "url": "https://www.jobware.de/",
+      "location": "Paderborn, Germany",
       "startDate": "2018-04-01",
       "endDate": "2018-09-30",
       "summary": "",
@@ -58,6 +61,7 @@
       "name": "Lehrstuhl II für Mathematik (research group on Discrete Optimization), RWTH Aachen University and Jobware GmbH, Paderborn",
       "position": "Student Research Assistant",
       "url": "https://www.math2.rwth-aachen.de/en/home/",
+      "location": "Aachen, Germany",
       "startDate": "2017-04-01",
       "endDate": "2018-03-30",
       "summary": "",
@@ -67,6 +71,7 @@
       "name": "Lehrstuhl II für Mathematik (research group on Discrete Optimization), RWTH Aachen University",
       "position": "Student Research Assistant",
       "url": "https://www.math2.rwth-aachen.de/en/home/",
+      "location": "Aachen, Germany",
       "startDate": "2016-04-01",
       "endDate": "2017-03-30",
       "summary": "",
@@ -81,7 +86,7 @@
       "location": "Aachen, Germany",
       "url": "https://www.rwth-aachen.de/",
       "area": "Computer Science",
-      "studyType": "Msc",
+      "studyType": "Master of Science",
       "startDate": "2017-04-01",
       "endDate": "2020-02-29",
       "score": "",
@@ -92,7 +97,7 @@
       "location": "Aachen, Germany",
       "url": "https://www.rwth-aachen.de/",
       "area": "Computer Science",
-      "studyType": "Bsc",
+      "studyType": "Bachelor of Science",
       "startDate": "2011-10-01",
       "endDate": "2017-04-30",
       "score": "",
@@ -106,7 +111,7 @@
       "name": "ISTQB® Certified Tester Foundation Level",
       "date": "2017-08-26",
       "issuer": "iSQI GmbH, German Testing Board",
-      "url": "",
+      "url": "https://www.istqb.org/",
       "icon": "fa-solid fa-computer"
     }
   ],
@@ -117,13 +122,11 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
@@ -131,6 +134,7 @@
       "name": "Chess",
       "icon": "fa-solid fa-chess",
       "keywords": [
+        "including Correspondence Chess"
       ]
     }
   ],
