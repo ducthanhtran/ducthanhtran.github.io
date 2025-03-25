@@ -8,17 +8,24 @@ nav_order: 6
 ---
 
 ## Ongoing
+- **Nafisa Ali Biddya**
+	- Title: TBA
+	- Master Thesis, Chemnitz University of Technology
+
+- **Stinu Rabin** (Co-supervised)
+	- Title: TBA
+	- Bachelor Thesis, Bochum University of Applied Sciences
 
 - **Xin Yang**
-	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen
+	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen University
 	
-- **Jan Moritz Philipp**
+- **Jan Moritz Philipp** (Co-supervised)
 	- Title: *Closed-Loop Control for Laser Metal Deposition with Wire*
 	- Master Thesis, FH Aachen – University of Applied Sciences
 	
 - **Ruturaj Shelake**
 	- Title: *Development of a Uniform Data Model for Laser Structuring*
-	- Master Thesis, Furtwangen University
+	- Master Thesis, Hochschule Furtwangen University
 	
 - **Sahil Nair**
 	- Title: *Toolpath Generation for Robot-based Laserstructuring*
@@ -34,7 +41,7 @@ nav_order: 6
 	- Title: *Development of a Domain-Specific Language for Laser Surface Texturing*
 	- Bachelor Thesis, FH Aachen – University of Applied Sciences, October 2024
 	
-- **Yimeng Liu**
+- **Yimeng Liu** (Co-supervised)
 	- Title: *Constructing Voxel Model with Quality Analysis from EOS OT System in LPBF Process*
 	- Bachelor Thesis, FH Aachen – University of Applied Sciences, August 2024
 	
