@@ -38,7 +38,7 @@ nav_order: 6
 
 - **Xin Yang**
 	- Title: *Proof of Concept Study for CAD to G-Code Conversion with Open-Source Package build123d in Python*
-	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen University
+	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen University, July 2025
 
 - **Ruturaj Shelake**
 	- Title: *Development of a Uniform Data Model for Laser Structuring*
