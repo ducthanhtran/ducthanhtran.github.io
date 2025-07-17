@@ -20,9 +20,6 @@ nav_order: 6
 - **Stinu Rabin** (Co-supervisor)
 	- Title: *Concept development of a temperature monitoring system for the LMD process*
 	- Bachelor Thesis, Bochum University of Applied Sciences
-
-- **Xin Yang**
-	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen University
 	
 - **Jan Moritz Philipp** (Co-supervisor)
 	- Title: *Sensor-based feedback loop for a robot arm in the LMD-w welding process*
@@ -31,12 +28,17 @@ nav_order: 6
 - **Sahil Nair**
 	- Title: *Toolpath Generation for Robot-based Laserstructuring*
 	- Master Thesis, FH Aachen – University of Applied Sciences
-	
-- **Pierre Oudanoon**
-	- Title: *Investigation of securing intellectual property and production parameters for machine learning in powder bed based laser beam melting through blockchain technology*
-	- Master Thesis, TH Köln – University of Applied Sciences
+
 
 ## Completed
+
+- **Pierre Oudanoon**
+	- Title: *Investigation of securing intellectual property and production parameters for machine learning in powder bed based laser beam melting through blockchain technology*
+	- Master Thesis, TH Köln – University of Applied Sciences, July 2025
+
+- **Xin Yang**
+	- Title: *Proof of Concept Study for CAD to G-Code Conversion with Open-Source Package build123d in Python*
+	- Research Project - Robotics Systems Engineering Programme, RWTH Aachen University
 
 - **Ruturaj Shelake**
 	- Title: *Development of a Uniform Data Model for Laser Structuring*
