@@ -16,14 +16,6 @@ nav_order: 6
 - **Nafisa Ali Biddya**
 	- Title: TBA
 	- Master Thesis, Chemnitz University of Technology
-
-- **Stinu Rabin** (Co-supervisor)
-	- Title: *Concept development of a temperature monitoring system for the LMD process*
-	- Bachelor Thesis, Bochum University of Applied Sciences
-	
-- **Jan Moritz Philipp** (Co-supervisor)
-	- Title: *Sensor-based feedback loop for a robot arm in the LMD-w welding process*
-	- Master Thesis, FH Aachen – University of Applied Sciences
 	
 - **Sahil Nair**
 	- Title: *Toolpath Generation for Robot-based Laserstructuring*
@@ -31,6 +23,14 @@ nav_order: 6
 
 
 ## Completed
+
+- **Stinu Rabin** (Co-supervisor)
+	- Title: *Concept development of a temperature monitoring system for the LMD process*
+	- Bachelor Thesis, Bochum University of Applied Sciences, October 2025
+	
+- **Jan Moritz Philipp** (Co-supervisor)
+	- Title: *Sensor-based feedback loop for a robot arm in the LMD-w welding process*
+	- Master Thesis, FH Aachen – University of Applied Sciences, October 2025
 
 - **Pierre Oudanoon**
 	- Title: *Investigation of securing intellectual property and production parameters for machine learning in powder bed based laser beam melting through blockchain technology*
