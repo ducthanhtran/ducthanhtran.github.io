@@ -8,6 +8,14 @@ nav_order: 6
 ---
 
 ## Ongoing
+
+- **Filip Thibault Fagnoul**
+	- Title: TBA
+	- Bachelor Thesis, Maastricht University
+	
+- **Asmae El-Akhal**
+	- Title: TBA
+	- Bachelor Thesis, FH Aachen – University of Applied Sciences
 	
 - **Willi Schwitzkowski**
 	- Title: TBA
@@ -16,13 +24,12 @@ nav_order: 6
 - **Nafisa Ali Biddya**
 	- Title: TBA
 	- Master Thesis, Chemnitz University of Technology
-	
-- **Sahil Nair**
-	- Title: *Toolpath Generation for Robot-based Laserstructuring*
-	- Master Thesis, FH Aachen – University of Applied Sciences
-
 
 ## Completed
+
+- **Sahil Nair**
+	- Title: *A Python-based Toolpath Generation Framework for Robot-based Laser Structuring*
+	- Master Thesis, FH Aachen – University of Applied Sciences, November 2025
 
 - **Stinu Rabin** (Co-supervisor)
 	- Title: *Concept development of a temperature monitoring system for the LMD process*
