@@ -8,10 +8,14 @@ nav_order: 6
 ---
 
 ## Ongoing
-
+	
 - **Filip Thibault Fagnoul**
 	- Title: TBA
 	- Bachelor Thesis, Maastricht University
+	
+- **Tobias Kühn**
+	- Title: TBA
+	- Master Thesis, University of Erlangen-Nuremberg
 	
 - **Asmae El-Akhal**
 	- Title: TBA
