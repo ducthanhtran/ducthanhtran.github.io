@@ -18,7 +18,7 @@ nav_order: 6
 	- Master Thesis, University of Erlangen-Nuremberg
 	
 - **Asmae El-Akhal**
-	- Title: TBA
+	- Title: Simulation of laser structuring processes with open-source software
 	- Bachelor Thesis, FH Aachen – University of Applied Sciences
 	
 - **Willi Schwitzkowski**
