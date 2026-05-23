@@ -3,4 +3,37 @@
     <url>
         <loc>https://ducthanhtran.github.io/</loc>
     </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/posts/post-0/</loc>
+        <lastmod>2018-08-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/research/</loc>
+        <lastmod>2026-05-14</lastmod>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/tags/lorem/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/tags/lorem/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/tags/post/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/tags/post/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ducthanhtran.github.io/theses/</loc>
+        <lastmod>2026-05-16</lastmod>
+    </url>
 </urlset>

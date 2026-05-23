@@ -1,3 +1,6 @@
 [submodule "themes/academic-paper"]
 	path = themes/academic-paper
 	url = git@github.com:aterenin/academic-paper.git
+[submodule "themes/DeepThought"]
+	path = themes/DeepThought
+	url = git@github.com:RatanShreshtha/DeepThought.git
