@@ -44,26 +44,26 @@ template = "page.html"
 I have mentored and (co-)supervised the following student theses and research projects.
 
 ## 2026
+- N. A. Biddya: Analysing the correlation between OPC UA measurements and thermal imaging data during the wire arc additive manufacturing process, Master Thesis, Chemnitz University of Technology, May 2026
 
-- W. Schwitzkowski: Bachelor Thesis, FH Aachen - University of Applied Sciences, 2026
+- W. Schwitzkowski: Performance Benchmarking of the Protocols OPC UA and MQTT in an Edge Cloud Environment, Bachelor Thesis, FH Aachen - University of Applied Sciences, April 2026
 
-- N. A. Biddya: Master Thesis, Chemnitz University of Technology, 2026
-
-- A. El-Akhal: Simulation of laser structuring processes with open-source software, Bachelor Thesis, FH Aachen - University of Applied Sciences, 2026
+- A. El-Akhal: Simulation von Laserstrukturierungsprozessen mit Open-Source-Software, Bachelor Thesis, FH Aachen - University of Applied Sciences, February 2026
 
 ## 2025
+
+- S. Rabin: Konzeptentwicklung eines Temperaturüberwachungssystems für den LMD-w Prozess, Bochum University of Applied Sciences, October 2025
+
+- J. M. Philipp: Sensorbasierte Feedbackschleife für einen Roboterarm im LMD-w-Schweißprozess, FH Aachen - University of Applied Sciences, August 2025
+
 - S. Nair: A Python-based Toolpath Generation Framework for Robot-based Laser Structuring, 
-Master Thesis, FH Aachen - University of Applied Sciences, November 2025
+Master Thesis, FH Aachen - University of Applied Sciences, August 2025
 
-- S. Rabin: Concept development of a temperature monitoring system for the LMD process, Bachelor Thesis, Bochum University of Applied Sciences, October 2025
-
-- J. M. Philipp: Sensor-based feedback loop for a robot arm in the LMD-w welding process, Master Thesis, FH Aachen - University of Applied Sciences, October 2025
-
-- P. Oudanoon: Investigation of securing intellectual property and production parameters for machine learning in powder bed based laser beam melting through blockchain technology, Master Thesis, TH Köln - University of Applied Sciences, July 2025
+- P. Oudanoon: Untersuchung der Absicherung geistigen Eigentums und der Produktionsparameter für das maschinelle Lernen im pulverbettbasierten Laserstrahlschmelzen durch die Blockchain-Technologie, Master Thesis, TH Köln - University of Applied Sciences, June 2025
 
 - X. Yang: Proof of Concept Study for CAD to G-Code Conversion with Open-Source Package build123d in Python, Research Project in Robotics Systems Engineering Programme, RWTH Aachen University, July 2025
 
-- R. Shelake: Development of a Uniform Data Model for Laser Structuring, Master Thesis, Furtwangen University, April 2025
+- R. R. Shelake: Development of a Uniform Data Model for Laser Structuring, Master Thesis, Furtwangen University, April 2025
 
 ## 2024
 - J. Zhang: Development of a Domain-Specific Language for Laser Surface Texturing, Bachelor Thesis, FH Aachen - University of Applied Sciences, October 2024
@@ -71,4 +71,4 @@ Master Thesis, FH Aachen - University of Applied Sciences, November 2025
 - Y. Liu: Constructing Voxel Model with Quality Analysis from EOS OT System in LPBF Process. Bachelor Thesis, FH Aachen - University of Applied Sciences, August 2024
 
 ## 2023
-- D. M. Alvarez: Development of a Prototype Software for Simulating Ultrafast Laser Surface Structuring, Master Thesis, FH Aachen - University of Applied Sciences, April 2023
+- D. Murietta-Alvarez: Development of a Prototype Software for Simulating Ultrafast Laser Surface Structuring, Master Thesis, FH Aachen - University of Applied Sciences, April 2023
