@@ -44,6 +44,8 @@ template = "page.html"
 I have mentored and (co-)supervised the following student theses and research projects.
 
 ## 2026
+- F. T. Fagnoul: Metal Additive Manufacturing for Off-the-Shelf Acetabular Cups: A Scoping Review and Comparison With Conventional Methods Across Clinical and Production Engineering Dimensions, Bachelor Thesis, Maastricht University, June 2026
+
 - J. M. Wahler: Investigating the Effect of Laser Power on Post-Deposition Cooling Rate in Multilayer Inconcel 718 Laser Metal Deposition with Wire (LMD-w), Bachelor Thesis, Maastricht University, June 2026
 
 - N. A. Biddya: Analysing the correlation between OPC UA measurements and thermal imaging data during the wire arc additive manufacturing process, Master Thesis, Chemnitz University of Technology, May 2026
