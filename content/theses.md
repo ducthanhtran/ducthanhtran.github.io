@@ -8,7 +8,7 @@ description = ""
 # If the section variable `sort_by` is set to `date`, then any page that lacks a `date`
 # will not be rendered.
 # Setting this overrides a date set in the filename.
-date=2026-05-16
+date=2026-07-07
 
 # The weight as defined on the Section page of the documentation.
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
@@ -44,6 +44,8 @@ template = "page.html"
 I have mentored and (co-)supervised the following student theses and research projects.
 
 ## 2026
+- J. M. Wahler: Investigating the Effect of Laser Power on Post-Deposition Cooling Rate in Multilayer Inconcel 718 Laser Metal Deposition with Wire (LMD-w), Bachelor Thesis, Maastricht University, June 2026
+
 - N. A. Biddya: Analysing the correlation between OPC UA measurements and thermal imaging data during the wire arc additive manufacturing process, Master Thesis, Chemnitz University of Technology, May 2026
 
 - W. Schwitzkowski: Performance Benchmarking of the Protocols OPC UA and MQTT in an Edge Cloud Environment, Bachelor Thesis, FH Aachen - University of Applied Sciences, April 2026
